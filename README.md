@@ -1,2 +1,1 @@
-# PrepCourse
-Repositorio de prueba
+Este proyecto es un prueba de como clonar desde 
